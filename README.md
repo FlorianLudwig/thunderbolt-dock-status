@@ -9,7 +9,7 @@ Kernel: 4.15.3
 |Power delivery| :exclamation: Works but unstable (screen flickering, etc.) | :white_check_mark: |
 |External dual screen| :white_check_mark: | :white_check_mark: |
 |USB| :white_check_mark: | |
-|Ethernet | :x: Unstable | :x: |
+|Ethernet | :exclamation: Unstable | :x: |
 |Audio | | |
 
 
