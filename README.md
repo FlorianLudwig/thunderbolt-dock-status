@@ -5,7 +5,7 @@ Kernel: 4.15.3
 
 |   | HP Thunderbolt 3 Dock | Thinkpad Thunderbolt 3 Dock |
 |---|---|---|
-|Tested Product No.| 841930-001<br>841930-002| |
+|Tested Product No.| 841830-001<br>841830-002| |
 |Power delivery| :exclamation: Works but unstable (screen flickering, etc.) | :white_check_mark: |
 |External dual screen| :white_check_mark: | :white_check_mark: |
 |USB| :white_check_mark: | |
