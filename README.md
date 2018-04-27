@@ -8,7 +8,7 @@ Kernel: 4.15.3
 |Power delivery| :exclamation: Works but unstable (screen flickering, etc.) | :white_check_mark: |
 |External dual screen| :white_check_mark: | :white_check_mark: |
 |USB| :white_check_mark: | |
-|Ethernet | :white_check_mark: | :x: |
+|Ethernet | :x: Unstable | :x: |
 |Audio | | |
 
 
@@ -29,4 +29,11 @@ tg3 0000:07:00.0 enp7s0: Link is up at 1000 Mbps, full duplex
 tg3 0000:07:00.0 enp7s0: Flow control is off for TX and off for RX
 tg3 0000:07:00.0 enp7s0: EEE is enabled
 
+```
+
+Might also end up with:
+```
+tg3.c:v3.137 (May 11, 2014)
+tg3 0000:07:00.0: phy probe failed, err -19
+tg3 0000:07:00.0: Problem fetching invariants of chip, aborting
 ```
