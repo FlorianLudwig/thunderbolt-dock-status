@@ -10,7 +10,7 @@ Kernel: 4.15.3
 |External dual screen| :white_check_mark: | :white_check_mark: |
 |USB| :white_check_mark: | |
 |Ethernet | :exclamation: Unstable | :x: |
-|Audio | | |
+|Audio | :white_check_mark: (works but no plug detection) | |
 
 
 ## HP Thunderbolt 3 Dock
